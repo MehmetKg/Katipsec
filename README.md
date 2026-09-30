@@ -15,7 +15,7 @@
 
 ### Adım 1: Son sürümü indirin
 
-👉 **[En son sürümü indir (KatipKlavye.exe)](../../releases/latest)**
+main.exe dosyasını indirebilirsiniz.
 
 `Assets` bölümünden **`KatipKlavye.exe`** dosyasına tıklayın.
 
