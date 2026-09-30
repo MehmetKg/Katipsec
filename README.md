@@ -27,21 +27,6 @@
 
 `.exe`'ye sağ tıklayıp **"Gönder → Masaüstü (kısayol oluştur)"** seçin.
 
----
-
-## 🖼️ Ekran Görüntüleri
-
-### Ana Sınav Ekranı
-![Ana Ekran](docs/screenshots/01-main-screen.png)
-
-### İstatistikler ve Gelişim
-![İstatistikler](docs/screenshots/02-statistics.png)
-
-### Metin Arşivi
-![Metin Arşivi](docs/screenshots/03-archive.png)
-
----
-
 ## ✨ Özellikler
 
 ### 🎯 Sınav Modu
